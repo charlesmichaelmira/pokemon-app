@@ -19,3 +19,8 @@ Expo Client supports running any project that doesn't have custom native modules
 - Open the project:
   - Sign in to expo and the project will appear in the app.
   - Or point your phone's camera at the QR code in the terminal (press "c" to view it).
+
+
+## Screenshots of running developement server from local machine, and running app from mobile device using Expo Go App
+
+![Running Development Server SS1](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/development-server-ss1.png?raw=true)
