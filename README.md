@@ -23,4 +23,12 @@ Expo Client supports running any project that doesn't have custom native modules
 
 ## Screenshots of running developement server from local machine, and running app from mobile device using Expo Go App
 
-![Running Development Server SS1](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/development-server-ss1.png?raw=true)
+[Running Development Server SS1](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/development-server-ss1.png?raw=true)
+[Running Development Server SS2](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/development-server-ss2.png?raw=true)
+
+
+[Mobile Screenshot SS1](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3252.png)
+[Mobile Screenshot SS2](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3253.png)
+[Mobile Screenshot SS3](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3254.png)
+[Mobile Screenshot SS4](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3255.png)
+[Mobile Screenshot SS5](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3256.png)
