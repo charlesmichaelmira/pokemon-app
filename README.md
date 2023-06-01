@@ -28,6 +28,7 @@ Running Development Server SS2 ![Running Development Server SS2](https://github.
 
 
 Mobile Screenshot SS1 ![Mobile Screenshot SS1](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3252.jpeg)
+<img src="https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3252.jpeg" width="324" height="324">
 Mobile Screenshot SS2 ![Mobile Screenshot SS2](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3253.jpeg)
 Mobile Screenshot SS3 ![Mobile Screenshot SS3](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3254.jpeg)
 Mobile Screenshot SS4 ![Mobile Screenshot SS4](https://github.com/charlesmichaelmira/pokemon-app/blob/main/raw/IMG_3255.jpeg)
