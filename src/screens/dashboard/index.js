@@ -45,7 +45,7 @@ export default function DashboardScreen() {
         style={{
           flexDirection: "row",
           justifyContent: "space-evenly",
-          marginVertical: 18,
+          marginBottom: 18,
         }}
       >
         <TouchableOpacity
@@ -102,9 +102,9 @@ export default function DashboardScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#AFAFAF",
+    backgroundColor: "transparent",
     paddingHorizontal: 16,
-    paddingTop: 42,
+    // paddingTop: 42,
   },
   navButtons: {
     flex: 0.3,
